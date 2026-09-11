@@ -3,7 +3,7 @@
 - I’m currently learning HTML, Py , C++
 - Pronouns: He/Him
 - Country: Italy/Moroccan
-- Fun fact: 14 
+- How old i am? : 14 
 
 # Do you need to contact me? You can do it via:
 - Telegram: @pixeeluvsyou_
