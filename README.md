@@ -7,4 +7,4 @@
 
 # Do you need to contact me? You can do it via:
 - Telegram: @pixeeluvsyou_
-- Discord: @pixeeluvsyou_
+- Discord: @pixeesobasedd_
