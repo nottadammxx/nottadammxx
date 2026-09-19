@@ -1,4 +1,4 @@
-# Hi! I'm pixeedev
+# Hi! I'm nottadammxx
 - I’m interested in tech
 - I’m currently learning HTML, Py , C++
 - Pronouns: He/Him
@@ -6,5 +6,6 @@
 - How old i am? : 14 
 
 # Do you need to contact me? You can do it via:
-- Telegram: @pixeeluvsyou_
-- Discord: @pixeesobasedd_
+- Telegram: @notadamssxx
+- Discord: @urfavvadamdevv
+
