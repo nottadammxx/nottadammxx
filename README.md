@@ -8,9 +8,9 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
-<a href="https://github.com/nottadammxx/ZenOS-Official-Website"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-zenos-official-website-dark.svg"><img src="assets/project-zenos-official-website-light.svg" width="49%" alt="ZenOS-Official-Website"></picture></a>&nbsp;<a href="https://github.com/nottadammxx/nottadammxx"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-nottadammxx-dark.svg"><img src="assets/project-nottadammxx-light.svg" width="49%" alt="nottadammxx"></picture></a>
+<a href="https://github.com/nottadammxx/nottadammxx"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-nottadammxx-dark.svg"><img src="assets/project-nottadammxx-light.svg" width="49%" alt="nottadammxx"></picture></a>&nbsp;<a href="https://github.com/nottadammxx/SmartCalc"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-smartcalc-dark.svg"><img src="assets/project-smartcalc-light.svg" width="49%" alt="SmartCalc"></picture></a>
 
-<a href="https://github.com/nottadammxx/SmartCalc"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-smartcalc-dark.svg"><img src="assets/project-smartcalc-light.svg" width="49%" alt="SmartCalc"></picture></a>&nbsp;<a href="https://github.com/nottadammxx/ChronosTimer"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-chronostimer-dark.svg"><img src="assets/project-chronostimer-light.svg" width="49%" alt="ChronosTimer"></picture></a>
+<a href="https://github.com/nottadammxx/ChronosTimer"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-chronostimer-dark.svg"><img src="assets/project-chronostimer-light.svg" width="49%" alt="ChronosTimer"></picture></a>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 

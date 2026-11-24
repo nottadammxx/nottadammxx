@@ -1,0 +1,194 @@
+{
+ "key": "89c3c192",
+ "stars": 0,
+ "contributions": 121,
+ "repos": 5,
+ "followers": 9,
+ "languages": [
+  [
+   "HTML",
+   73674
+  ],
+  [
+   "Python",
+   1910
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 10,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 14,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 17,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 21,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 22,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 23,
+    "today": false
+   },
+   {
+    "c": 3,
+    "day": 24,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 1,
+  "longest": 3
+ },
+ "pins": [
+  {
+   "name": "nottadammxx",
+   "url": "https://github.com/nottadammxx/nottadammxx",
+   "text": "Presentation",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "SmartCalc",
+   "url": "https://github.com/nottadammxx/SmartCalc",
+   "text": "Just a calculator in py.",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "ChronosTimer",
+   "url": "https://github.com/nottadammxx/ChronosTimer",
+   "text": "Time your thinghs without problems in py.",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  }
+ ],
+ "all": [
+  {
+   "name": "ios-sapphire",
+   "url": "https://github.com/nottadammxx/ios-sapphire",
+   "text": "Apple's iOS 16 (iPhone X userland + XNU) on the Redmi Note 13 4G (sapphire, SM6225). Port of ios-topaz.",
+   "fork": true,
+   "stars": 0,
+   "language": "C",
+   "topics": []
+  },
+  {
+   "name": "ZenOS-Official-Website",
+   "url": "https://github.com/nottadammxx/ZenOS-Official-Website",
+   "text": "ZenOS Official Website",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "ChronosTimer",
+   "url": "https://github.com/nottadammxx/ChronosTimer",
+   "text": "Time your thinghs without problems in py.",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "SmartCalc",
+   "url": "https://github.com/nottadammxx/SmartCalc",
+   "text": "Just a calculator in py.",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "nottadammxx",
+   "url": "https://github.com/nottadammxx/nottadammxx",
+   "text": "Presentation",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  }
+ ]
+}
