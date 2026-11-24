@@ -1,11 +1,25 @@
-# Hi! I'm nottadammxx
-- I’m interested in tech
-- I’m currently learning HTML, Py , C++
-- Pronouns: He/Him
-- Country: Italy/Moroccan
-- How old i am? : 14 
+<div align="center">
 
-# Do you need to contact me? You can do it via:
-- Telegram: @notadamssxx
-- Discord: @urfavvadamdevv
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Hi, I&#x27;m nottadammxx Nottadammxx"></picture>
 
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-l-dark.svg"><img src="assets/social-l-light.svg" width="32.661%" alt=""></picture><a href="https://t.me/notadamssxx"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-1-dark.svg"><img src="assets/social-1-light.svg" width="18.122%" alt="telegram"></picture></a><a href="https://discord.com/urfavvadamdevv"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-2-dark.svg"><img src="assets/social-2-light.svg" width="16.552%" alt="discord"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-r-dark.svg"><img src="assets/social-r-light.svg" width="32.661%" alt=""></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg"><img src="assets/about-light.svg" width="100%" alt="About me"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
+
+<a href="https://github.com/nottadammxx/ZenOS-Official-Website"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-zenos-official-website-dark.svg"><img src="assets/project-zenos-official-website-light.svg" width="49%" alt="ZenOS-Official-Website"></picture></a>&nbsp;<a href="https://github.com/nottadammxx/nottadammxx"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-nottadammxx-dark.svg"><img src="assets/project-nottadammxx-light.svg" width="49%" alt="nottadammxx"></picture></a>
+
+<a href="https://github.com/nottadammxx/SmartCalc"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-smartcalc-dark.svg"><img src="assets/project-smartcalc-light.svg" width="49%" alt="SmartCalc"></picture></a>&nbsp;<a href="https://github.com/nottadammxx/ChronosTimer"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-chronostimer-dark.svg"><img src="assets/project-chronostimer-light.svg" width="49%" alt="ChronosTimer"></picture></a>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
+
+<a href="https://zenos.ovh"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-1-dark.svg"><img src="assets/button-1-light.svg" width="auto" alt="My website"></picture></a>&nbsp;&nbsp;<a href="https://github.com/nottadammxx?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-2-dark.svg"><img src="assets/button-2-light.svg" width="auto" alt="All repositories"></picture></a>
+
+<a href="https://metawka.github.io/expressive-profile/?from=nottadammxx"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-dark.svg"><img src="assets/credit-light.svg" width="auto" alt="Made with Expressive Profile"></picture></a>
+
+</div>
