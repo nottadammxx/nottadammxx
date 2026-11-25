@@ -1,5 +1,5 @@
 {
- "key": "89c3c192",
+ "key": "a388199f",
  "stars": 0,
  "contributions": 121,
  "repos": 5,
@@ -7,7 +7,7 @@
  "languages": [
   [
    "HTML",
-   73674
+   70848
   ],
   [
    "Python",
@@ -103,9 +103,13 @@
    {
     "c": 3,
     "day": 24,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 25,
     "today": true
    },
-   null,
    null,
    null,
    null
